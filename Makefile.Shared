@@ -1,0 +1,3 @@
+default:
+	\cp -f FCHucker.elf /media/sf_ps2/fchucker/staging/FCHuker.elf
+
